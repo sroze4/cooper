@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/cooper/', // Update the base to match your repository name
+  base: '/cooper/', // Replace "cooper" with your repository name
   plugins: [react()],
 });
